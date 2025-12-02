@@ -1,4 +1,5 @@
 mod day01;
+mod day02;
 
 use std::time::Instant;
 
@@ -31,4 +32,5 @@ macro_rules! display_day {
 
 fn main() {
     display_day!(day01, "1.in");
+    display_day!(day02, "2.in");
 }
