@@ -2,6 +2,8 @@ mod day01;
 mod day02;
 mod day03;
 mod day04;
+mod day05;
+mod day06;
 
 use std::time::Instant;
 
@@ -37,4 +39,6 @@ fn main() {
     display_day!(day02, "2.in");
     display_day!(day03, "3.in");
     display_day!(day04, "4.in");
+    display_day!(day05, "5.in");
+    display_day!(day06, "6.in");
 }
