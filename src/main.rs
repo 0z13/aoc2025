@@ -35,10 +35,10 @@ macro_rules! display_day {
 }
 
 fn main() {
-    display_day!(day01, "1.in");
-    display_day!(day02, "2.in");
-    display_day!(day03, "3.in");
-    display_day!(day04, "4.in");
-    display_day!(day05, "5.in");
+    // display_day!(day01, "1.in");
+    // display_day!(day02, "2.in");
+    // display_day!(day03, "3.in");
+    // display_day!(day04, "4.in");
+    // display_day!(day05, "5.in");
     display_day!(day06, "6.in");
 }
